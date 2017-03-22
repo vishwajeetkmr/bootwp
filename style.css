@@ -217,6 +217,13 @@ h6, .h6 {
      
 }
 
+.blog-nav a{
+    color: #fff;
+}
+
+.blog-nav a:hover{
+    color: #666;
+}
 
 
 
