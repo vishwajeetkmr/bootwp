@@ -1,3 +1,5 @@
+<!--- Comment Section  --->
+
 <div class="comments">
     <h2>Comments</h2>
     <?php $args = array(
