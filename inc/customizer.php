@@ -1,5 +1,5 @@
 <?php
-
+// theme customizer
 function wpb_customize_register($wp_customize){
     $wp_customize->add_section('showcase',array(
         'title' => __('Showcase','bootwp'),
